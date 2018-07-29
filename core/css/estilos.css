@@ -1,15 +1,5 @@
 body{
-<<<<<<< HEAD
-<<<<<<< HEAD
-   background:orange;
-=======
-   background:pink;
->>>>>>> parent of 33f4f34... se cambio aspecto de la pagina para una mejor vista
-=======
-   background:purple;
->>>>>>> parent of 0db90b3... esto es un cambio en el texto y estilos para la rama 3
-   padding:10px;
-   box-sizing:border-box;
+background:purple;
 }
 
 header{width:100%;  padding:20px; 10px; border:1px solid;}

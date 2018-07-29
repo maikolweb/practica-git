@@ -1,5 +1,5 @@
 body{
-   background:pink;
+   background:purple;
    padding:10px;
    box-sizing:border-box;
 }
@@ -7,6 +7,6 @@ body{
 header{width:100%;  padding:20px; 10px; border:1px solid;}
 nav{}
 ul{display:block; width:100%;}
-li{display:inline-block; padding:10px; background:#fff;}
+li{display:inline-block; padding:10px; background:#00ffe3;}
 section{margin-top:20px;}
-p{color:#000;}
+p{color:#fff;}
